@@ -1,0 +1,1 @@
+This two files have very similar structures, but the only difference is the GCNLayer class. One is built using DGL and the other is constructed using torch_geometric. Still need to figure out why DGL gives faster and better performance than torch_geometric. 
